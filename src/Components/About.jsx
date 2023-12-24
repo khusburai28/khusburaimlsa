@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/motion-background-kh.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Khusbu Rai, a second-year Student pursuing B.Tech in Computer Science with AI and ML at GGSIPU.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full-stack Web Development",
+  "UI/UX Designing",
+  "Blockchain Development",
+  "Data Structure and Algorithm",
+  "Problem Solver",
+  "Artificial Intelligence & Machine Learning",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I take pride in being a finalist at the Google Girls Hackathon and a member of the 35th top-selected team at the Smart India Hackathon. Alongside my studies, I'm an Alpha Microsoft Learn Student Ambassador. I enjoy cracking problems and make it a habit to dive into data structures and algorithms every day. My heart lies in AI, and that fuels my commitment to staying at the forefront of technological innovation. ";
 
 const About = () => {
   return (
